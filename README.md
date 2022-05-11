@@ -6,6 +6,16 @@
 
 若有新的资讯请提PR
 
+### 使用例
+在[这里](https://ipfs.github.io/public-gateway-checker/)选择一个ipfs网关，例如：
+
+https://ipfs.io/ipfs/ 
+
+后面加上cid值，例如：
+
+https://ipfs.io/ipfs/QmfC1gqff4KEDiQwVffy4N36L6cTwRXovDy9cjzrPASzRu
+
+如果在中国大陆境内打不开，请自行选择科学工具
 
   |                 name                    |        prop       |                     cid                           |
   |-----------------------------------------|-------------------|---------------------------------------------------|
